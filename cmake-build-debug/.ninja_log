@@ -1,0 +1,4 @@
+# ninja log v5
+1	941	7049421920582681	CMakeFiles/assignment.dir/main.cpp.obj	63e1b720ea8e2efb
+7	577	7049447339905088	build.ninja	dd77666efb35244
+5	2080	7049447363011653	CMakeFiles/assignment.dir/sendData.cpp.obj	2e9249a171cb9e92
